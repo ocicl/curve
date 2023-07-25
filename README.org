@@ -2,9 +2,8 @@
 
 Curve modulation library.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/elbeno/curve.git   |
-| commit  | 1989d49  |
-| systems | curve |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------|
+| source  | git:https://github.com/elbeno/curve.git |
+| commit  | 1989d49                                 |
+| systems | com.elbeno.curve                        |
+|---------+-----------------------------------------|
