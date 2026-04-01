@@ -7,3 +7,4 @@ Curve modulation library.
 | commit  | 1989d49                                 |
 | systems | com.elbeno.curve                        |
 |---------+-----------------------------------------|
+ 
